@@ -1,2 +1,1 @@
-# 2021-artificial-intelligence
-인공지능
+# 2021 Artificial-Intelligence
